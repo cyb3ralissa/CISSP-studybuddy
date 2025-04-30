@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CISSP StudyBuddy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>CISSP Flashcard Generator</h1>
+  <button onclick="getCard()">New Flashcard</button>
+  <div id="card">
+    <p><strong>Domain:</strong> <span id="domain"></span></p>
+    <p><strong>Question:</strong> <span id="question"></span></p>
+    <p><strong>Answer:</strong> <span id="answer" style="display:none;"></span></p>
+    <button onclick="showAnswer()">Show Answer</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
