@@ -1,0 +1,17 @@
+[
+  {
+    "domain": "Security and Risk Management",
+    "question": "What is the first step in Business Continuity Planning?",
+    "answer": "Conduct a Business Impact Analysis (BIA)."
+  },
+  {
+    "domain": "Asset Security",
+    "question": "What classification level is used for information that could cause serious damage if disclosed?",
+    "answer": "Secret"
+  },
+  {
+    "domain": "Security Engineering",
+    "question": "What is the main goal of secure design principles?",
+    "answer": "To reduce attack surfaces and eliminate vulnerabilities early in development."
+  }
+]
