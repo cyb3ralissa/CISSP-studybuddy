@@ -16,5 +16,5 @@ This project is built using **HTML, CSS, and JavaScript** and hosted for free on
 
 ---
 
-## 📂 File Structure
+
 
