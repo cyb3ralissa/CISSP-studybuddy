@@ -15,3 +15,51 @@
     "answer": "To reduce attack surfaces and eliminate vulnerabilities early in development."
   }
 ]
+
+{
+    "domain": "Security and Risk Management",
+    "question": "What is the primary goal of risk management?",
+    "answer": "To identify, assess, and mitigate risks to acceptable levels."
+  },
+  {
+    "domain": "Security and Risk Management",
+    "question": "What is residual risk?",
+    "answer": "The risk that remains after controls have been applied."
+  },
+  {
+    "domain": "Security and Risk Management",
+    "question": "What is due diligence?",
+    "answer": "The act of investigating and understanding risks before taking action."
+  },
+  {
+    "domain": "Asset Security",
+    "question": "What is data remanence?",
+    "answer": "Residual representation of data that remains even after attempts to erase or remove it."
+  },
+  {
+    "domain": "Asset Security",
+    "question": "What is the purpose of data classification?",
+    "answer": "To ensure data is handled according to its sensitivity and value."
+  },
+  {
+    "domain": "Asset Security",
+    "question": "What classification level is used for information that could cause exceptionally grave damage if disclosed?",
+    "answer": "Top Secret"
+  },
+  {
+    "domain": "Security Engineering",
+    "question": "What is the principle of least privilege?",
+    "answer": "Users should be granted the minimum level of access required to perform their duties."
+  },
+  {
+    "domain": "Security Engineering",
+    "question": "What is defense in depth?",
+    "answer": "A layered approach to security that uses multiple controls to protect assets."
+  },
+  {
+    "domain": "Security Engineering",
+    "question": "What is fail secure?",
+    "answer": "A system design that defaults to a secure state in the event of a failure."
+  }
+]
+
